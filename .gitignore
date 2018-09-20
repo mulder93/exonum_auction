@@ -1,2 +1,6 @@
-/target
-**/*.rs.bk
+# cargo
+target
+rls
+Cargo.lock
+
+db1

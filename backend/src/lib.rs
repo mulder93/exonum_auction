@@ -20,7 +20,7 @@ use api::PublicApi;
 use schema::Schema;
 use transactions::AuctionItemTransactions;
 
-const SERVICE_ID: u16 = 1;
+const SERVICE_ID: u16 = 12;
 const SERVICE_NAME: &str = "auction";
 const INITIAL_BID: u64 = 50;
 
